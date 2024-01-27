@@ -1,0 +1,16 @@
+In this file I just write all the comments which I will discover in my journey.
+
+1. Initialize new git repo in your current directory 	-->	git init
+
+2. Copies a repository from a remote source to your local machine.	-->	git clone <repo_url>
+
+3. Stages changes from commit	-->	git add <file_name>
+   To add all changes	-->	git add .
+
+4.Records the changes made to the repository.	-->	git commit -m 'commit message'
+
+5. Show the status of changes as untracked, modified, or staged.	-->	git status
+
+6. Fetches changes from a remote repository and merges them into the current branch.	-->	git pull
+
+7.
